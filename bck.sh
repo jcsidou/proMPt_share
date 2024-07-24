@@ -1,0 +1,1 @@
+python c:/Users/xpadmin/Documents/GitHub/promptshare/backend/manage.py runserver
